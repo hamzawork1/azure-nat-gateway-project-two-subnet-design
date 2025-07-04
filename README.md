@@ -1,0 +1,1 @@
+# azure-nat-gateway-project-two-subnet-design
